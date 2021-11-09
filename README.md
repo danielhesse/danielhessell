@@ -9,5 +9,4 @@ decidi criar uma nova conta (essa daqui).
 ![Badge](https://img.shields.io/static/v1?label=ReactJS&message=TS&color=19ccac)
 ![Badge](https://img.shields.io/static/v1?label=ReactNative&message=TS&color=19ccac)
 
-![Daniel Hessel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhessell&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhessell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
