@@ -9,4 +9,12 @@ decidi criar uma nova conta (essa daqui).
 ![Badge](https://img.shields.io/static/v1?label=Node.js&message=TS&color=026e00)
 ![Badge](https://img.shields.io/static/v1?label=Serverless&message=TS&color=fd5750)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhessell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhessell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/danielhessell/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhessell&layout=compact&theme=dark" alt="danielhessell" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhessell&show_icons=true&theme=dark" alt="danielhessell" />
+  </a>
+</p>
