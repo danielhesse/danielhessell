@@ -21,11 +21,11 @@ I love working with back-end development and have been a developer since 2019, a
 
 I also have another deprecated github accessible from [github.com/daniel21h](https://github.com/daniel21h).
 
-<!-- ### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/danielhessell/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhessell&layout=compact&theme=github_dark" alt="danielhessell" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielhessell&show_icons=true&theme=github_dark" alt="danielhessell" />
   </a>
 </p>
- -->
+
